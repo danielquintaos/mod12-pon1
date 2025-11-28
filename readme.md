@@ -1,5 +1,3 @@
-
-````markdown
 # Pico W Reaction Game on NixOS 🎮🐧
 
 A tiny terminal-based reaction game written in Python that runs on **NixOS**, controlled by **four physical buttons** connected to a **Raspberry Pi Pico W**.
