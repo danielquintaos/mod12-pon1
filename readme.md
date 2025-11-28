@@ -52,7 +52,7 @@ A tiny terminal-based reaction game written in Python that runs on **NixOS**, co
 
    ```bash
    cp ~/Downloads/RPI_PICO_W-*.uf2 /run/media/$USER/RPI-RP2/
-````
+
 
 The Pico will reboot automatically into MicroPython 🔁
 
